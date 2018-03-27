@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">D2K</string>
+    <string name="textview">TextView</string>
+
+
+    <string-array name="Vegetabels">
+        <item>Vegetables</item>
+
+        <item>Spinach</item>
+        <item>Lettuce lollo  Rosso</item>
+        <item>Lettuce  marvel of four seasons</item>
+        <item>Kale</item>
+        <item>Mustard  greens</item>
+        <item>Bok  choy</item>
+        <item>Beet  green</item>
+        <item>Swiss  chard</item>
+        <item>Chienese cabbage</item>
+
+    </string-array>
+
+
+</resources>

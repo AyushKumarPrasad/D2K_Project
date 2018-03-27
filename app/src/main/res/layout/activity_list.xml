@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ayushkumar.d2k.ListActivity">
+
+
+    <TextView
+        android:id="@+id/textlist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textview"
+        tools:layout_editor_absoluteX="151dp"
+        tools:layout_editor_absoluteY="6dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/textreverse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textview"
+        tools:layout_editor_absoluteX="151dp"
+        tools:layout_editor_absoluteY="82dp"
+        tools:ignore="MissingConstraints" />
+</LinearLayout>
